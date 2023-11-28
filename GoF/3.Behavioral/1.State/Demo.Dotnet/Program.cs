@@ -1,7 +1,5 @@
-﻿// Open a new account
-var account = new Account("Nelson Nobre");
+﻿var account = new Account("Nelson Nobre");
 
-// Apply financial transactions
 account.Deposit(500.0);
 account.Withdraw(100.0);
 
