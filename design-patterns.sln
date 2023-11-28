@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GoF", "GoF", "{458EEB53-F51F-4D8A-82E4-BCAB987C8ED5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Behavioral", "3.Behavioral", "{42D4BF35-DF76-4C0B-8B40-A1FCF651FCD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.State", "1.State", "{3F3B1B08-42CB-4472-8D72-00F8719AA1F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "GoF\3.Behavioral\1.State\Demo.Dotnet\Demo.csproj", "{52F28F04-EC94-4E1F-86B0-9A20824E14BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F28F04-EC94-4E1F-86B0-9A20824E14BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F28F04-EC94-4E1F-86B0-9A20824E14BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F28F04-EC94-4E1F-86B0-9A20824E14BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F28F04-EC94-4E1F-86B0-9A20824E14BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42D4BF35-DF76-4C0B-8B40-A1FCF651FCD1} = {458EEB53-F51F-4D8A-82E4-BCAB987C8ED5}
+		{3F3B1B08-42CB-4472-8D72-00F8719AA1F2} = {42D4BF35-DF76-4C0B-8B40-A1FCF651FCD1}
+		{52F28F04-EC94-4E1F-86B0-9A20824E14BF} = {3F3B1B08-42CB-4472-8D72-00F8719AA1F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFFDEC4-DEE8-4747-BA0F-B731E10430E0}
+	EndGlobalSection
+EndGlobal
