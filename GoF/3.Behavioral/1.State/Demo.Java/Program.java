@@ -1,4 +1,4 @@
-public class Main {
+public class Program {
     public static void main(String[] args) {
         // Create a new account
         Account account = new Account("Nelson Nobre");

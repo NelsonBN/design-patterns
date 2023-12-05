@@ -6,7 +6,6 @@
     - [Creational](#creational)
     - [Structural](#structural)
     - [Behavioral](#behavioral)
-      - [State](#state)
 - [For Data Persistence](#for-data-persistence)
 
 
@@ -23,9 +22,7 @@
 #### Structural
 
 #### Behavioral
-
-##### State
-[Doc](./GoF/3.Behavioral/1.State/README.md)
+- [State](./GoF/3.Behavioral/1.State/README.md)
 
 
 ## For Data Persistence
