@@ -16,6 +16,8 @@ charset = utf-8
 # Indentation and spacing
 indent_size = 4
 indent_style = space
+
+# Indentation and spacing
 tab_width = 4
 
 # New line preferences
@@ -40,6 +42,10 @@ indent_size = 2
 [*.{props,targets,ruleset,config,nuspec,resx,vsixmanifest,vsct,json}]
 indent_size = 2
 
+# TypeScript/Javascript files
+[*.{ts,tsx,js,jsx}]
+indent_size = 4
+
 
 # Code files
 [*.{cs,csx,vb,vbx}]
@@ -49,9 +55,20 @@ charset = utf-8-bom
 
 
 
-###############################
-# .NET Coding Conventions     #
-###############################
+############################################
+# TypeScript/JavaScript Coding Conventions #
+############################################
+
+[*.{ts,tsx,js,jsx}]
+
+insert_final_newline = true # Insert a newline at the end of the file when you save it
+trim_trailing_whitespace = true # Trim trailing whitespace on lines when you press enter
+
+
+
+###########################
+# .NET Coding Conventions #
+##########################
 
 [*.{cs,vb,csproj}]
 
@@ -60,9 +77,6 @@ trim_trailing_whitespace = true # Trim trailing whitespace on lines when you pre
 
 
 [*.{cs,vb}]
-
-# Indentation and spacing
-tab_width = 4
 
 #### .NET Coding Conventions ####
 
