@@ -482,3 +482,14 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+
+### NODE / TYPESCRIPT ###
+
+# Dependency directories
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+out/
