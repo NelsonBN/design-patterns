@@ -1,4 +1,5 @@
-﻿var account = new Account("Nelson Nobre");
+﻿// Client
+var account = new Account("Nelson Nobre");
 
 account.Deposit(500.0);
 account.Withdraw(100.0);

@@ -97,7 +97,7 @@ class GoldState(State):
 
 
 
-# Example usage
+# Example usage (Client)
 account = Account("Nelson Nobre")
 account.deposit(500)
 account.withdraw(100)
