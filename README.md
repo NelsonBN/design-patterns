@@ -1,13 +1,13 @@
 # Design Patterns
 
-- [GoF - Gang of Four](#gof---gang-of-four)
+- [GoF (Gang of Four)](#gof-gang-of-four)
   - [Documentations](#documentations)
   - [Patterns](#patterns)
     - [Behavioral](#behavioral)
 - [For Data Persistence](#for-data-persistence)
 
 
-## GoF - Gang of Four
+## GoF (Gang of Four)
 
 ### Documentations
 - [Refactoring](https://refactoring.guru/design-patterns/catalog)
