@@ -3,8 +3,6 @@
 - [GoF - Gang of Four](#gof---gang-of-four)
   - [Documentations](#documentations)
   - [Patterns](#patterns)
-    - [Creational](#creational)
-    - [Structural](#structural)
     - [Behavioral](#behavioral)
 - [For Data Persistence](#for-data-persistence)
 
@@ -17,12 +15,8 @@
 
 ### Patterns
 
-#### Creational
-
-#### Structural
-
 #### Behavioral
-- [State](./GoF/3.Behavioral/1.State/README.md)
+- [State](./GoF/Behavioral/State/README.md)
 
 
 ## For Data Persistence
