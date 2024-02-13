@@ -11,11 +11,9 @@
 - [Pos and Cons](#pos-and-cons)
 - [Other Variations](#other-variations)
   - [Simplified Builder](#simplified-builder)
-    - [Use Cases:](#use-cases)
   - [Fluent Builder](#fluent-builder)
   - [Nested Builder](#nested-builder)
   - [Combining with Factory Method](#combining-with-factory-method)
-    - [Use Cases](#use-cases-1)
   - [Hierarchical Builder](#hierarchical-builder)
   - [Complex Builder](#complex-builder)
 
@@ -82,8 +80,6 @@ The Builder pattern is tasked with ensuring objects are only created in valid st
 
 In scenarios where the goal is to streamline the creation process, and there's no need for multiple builders, opting for a simplified approach without the **Director** and **Builder Interface** is common. This variant relies solely on the **Concrete Builder** and the **Product**, offering the flexibility to construct an object from various points in the code.
 
-#### Use Cases:
-
 - **Objects with Numerous Optional Parameters**: The Builder pattern facilitates the construction process, allowing for the specification of essential parameters first, followed by any optional ones as necessary.
 
 - **Objects Whose Constructors Have Many Parameters**: Employing the Builder pattern streamlines object creation, enabling the setting of mandatory parameters upfront, with the flexibility to add optional parameters later.
@@ -110,8 +106,6 @@ In languages like C#, this approach can be further enhanced with the `partial` k
 ### Combining with Factory Method
 
 Integrating the Builder pattern with the Factory Method pattern offers nuanced control over object creation, enhancing encapsulation and abstraction.
-
-#### Use Cases
 
 - **Concealing Object Creation**: To abstract the instantiation process from clients, the Builder pattern can obfuscate the direct use of the `new` keyword, offering a fluent interface for object creation without exposing construction details.
 
