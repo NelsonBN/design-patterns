@@ -16,6 +16,7 @@
   - [Combining with Factory Method](#combining-with-factory-method)
   - [Hierarchical Builder](#hierarchical-builder)
   - [Complex Builder](#complex-builder)
+- [References](#references)
 
 
 
@@ -132,3 +133,7 @@ Employing the Builder pattern for constructing hierarchical object structures fa
 The Builder pattern is adept at managing the construction of objects that entail intricate assembly procedures. It excels in scenarios where the creation process involves numerous steps, conditional logic, or requires the integration of various components, providing a structured and scalable approach to object instantiation.
 
 > [Demo Code](./Dotnet/ComplexBuilder/Program.cs)
+
+
+## References
+- [doFactory](https://www.dofactory.com/net/builder-design-pattern)
