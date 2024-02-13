@@ -3,6 +3,13 @@
 [Home](../../../README.md)
 
 
+- [UML Diagram](#uml-diagram)
+- [State orquestration](#state-orquestration)
+- [Pos and Cons](#pos-and-cons)
+- [References](#references)
+
+
+
 ## UML Diagram
 ![State](https://www.dofactory.com/img/diagrams/net/state.png)
 

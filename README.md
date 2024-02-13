@@ -3,6 +3,7 @@
 - [GoF (Gang of Four)](#gof-gang-of-four)
   - [Documentations](#documentations)
   - [Patterns](#patterns)
+    - [Creational](#creational)
     - [Behavioral](#behavioral)
 - [For Data Persistence](#for-data-persistence)
 
@@ -14,6 +15,9 @@
 - [dofactory](https://www.dofactory.com/net/design-patterns)
 
 ### Patterns
+
+#### Creational
+- [Builder](./GoF/Creational/Builder/README.md)
 
 #### Behavioral
 - [State](./GoF/Behavioral/State/README.md)
