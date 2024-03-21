@@ -17,10 +17,10 @@
 ### Patterns
 
 #### Creational
-- [Builder](./GoF/Creational/Builder/README.md)
+- [Builder](https://github.com/NelsonBN/design-patterns-gof-creational-builder)
 
 #### Behavioral
-- [State](./GoF/Behavioral/State/README.md)
+- [State](https://github.com/NelsonBN/design-patterns-gof-behavioral-state)
 
 
 ## For Data Persistence
