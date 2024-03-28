@@ -1,11 +1,17 @@
 # Design Patterns
 
+- [Common Design Patterns](#common-design-patterns)
 - [GoF (Gang of Four)](#gof-gang-of-four)
   - [Documentations](#documentations)
   - [Patterns](#patterns)
     - [Creational](#creational)
     - [Behavioral](#behavioral)
 - [For Data Persistence](#for-data-persistence)
+
+
+## Common Design Patterns
+
+- [Static Factory Method](https://github.com/NelsonBN/design-patterns-static-factory-method)
 
 
 ## GoF (Gang of Four)
